@@ -1,0 +1,11 @@
+{
+"SSID" : "Livebox-BE60",
+"Pass" : "Pannetier19791130",
+"MQTT_Server" : "pannetier.ddns.net",
+"MQTT_User" : "",
+"MQTT_Pass" : "",
+"Topic_PHOTO" : "POWER",
+"Topic_CONFIG" : "config",
+"Topic_UP" : "out",
+"HostName" : "ESP32CAM_BUREAU"
+}
